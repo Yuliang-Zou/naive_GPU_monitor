@@ -1,4 +1,4 @@
-# stupid_GPU_monitor
+# Naive GPU Monitor
 A stupid script to monitor GPU memory usage
 
 
