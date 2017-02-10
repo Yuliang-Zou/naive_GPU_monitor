@@ -3,7 +3,7 @@ A stupid script to monitor GPU memory usage
 
 
 ## Why I want to create this?
-I started training a DNN model with Torch last night, and it crashed at some time. But I don't know when did it crash. So I wrote this script to monitor the GPU memory usage for me, if the memory usage if too low, it will send me an email so I can know.
+I started training a DNN model with Torch last night, and it crashed at some time. But I don't know when did it crash. So I wrote this script to monitor the GPU memory usage for me, if the memory usage is too low, it will send me an email so I can know.
 
 
 ## Requirement
